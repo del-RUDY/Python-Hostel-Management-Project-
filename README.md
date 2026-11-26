@@ -13,7 +13,7 @@ A beginner-friendly console + GUI application to manage hostel students and room
 |--------|------|
 | **Rudarpartap Singh** (Team Leader) | Menu, integration, CSV save/load |
 | **Pratiksha** | Student Registration |
-| **Rakshit Anand** | Testing |
+| **Rakshit Anand** | project testing and validation |
 | **Akshar Khajuria** | Student Search & Room Change |
 | **Janhvi Gupta** | Room Management, Allocation & Analysis |
 
